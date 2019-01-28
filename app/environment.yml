@@ -1,0 +1,4 @@
+name: microblog
+dependencies:
+  - python=3.7
+  - flask=1.0.2
